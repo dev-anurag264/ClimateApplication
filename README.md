@@ -1,7 +1,7 @@
 # climo
 
 A new Flutter project.
-
+class and news
 ## Getting Started
 
 This project is a starting point for a Flutter application.
